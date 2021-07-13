@@ -2,7 +2,7 @@ version: "3"
 
 services:
   web:
-    container_name: credit-payment-service
+    container_name: micro-payment
     restart: always
     build: .
     ports:

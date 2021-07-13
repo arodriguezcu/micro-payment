@@ -1,4 +1,4 @@
 FROM openjdk:8-alpine
-COPY "./target/credit-payment-service-0.0.1-SNAPSHOT.jar" "appcredit-payment-service.jar"
+COPY "./target/micro-payment-0.0.1-SNAPSHOT.jar" "appmicro-payment.jar"
 EXPOSE 8098
-ENTRYPOINT ["java","-jar","appcredit-payment-service.jar"]
+ENTRYPOINT ["java","-jar","appmicro-payment.jar"]

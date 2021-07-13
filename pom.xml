@@ -12,9 +12,9 @@
   </parent>
   
   <groupId>com.everis</groupId>
-  <artifactId>credit-payment-service</artifactId>
+  <artifactId>micro-payment</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>credit-payment-service</name>
+  <name>micro-payment</name>
   <description>Demo project for Spring Boot</description>
   
   <properties>
